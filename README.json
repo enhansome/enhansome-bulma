@@ -1,0 +1,696 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "🔗 - Bulma - Official website🔗 - Documentation - Guides and reference🔗 - GitHub - Source code, issues, and releases🔗 - Releases - Changelog and version history🔗 - Migrating to Bulma v1 - Official upgrade guide from v0.9 to v1🔗 - npm - Package versions and install instructions🔗 - cdnjs - CDN-hosted builds of every Bulma version🔗 - Official Extensions - Curated extension directory on bulma.io🔗 - Official Expo - Showcase of websites built with Bulma",
+      "items": [],
+      "title": "Useful Links"
+    },
+    {
+      "description": "🏁 - create-bestax - A starter for React/Bestax/Bulma/AI-powered development, built for Bulma v1\nNote: These starters are built for Bulma v0.9 and are not yet compatible with v1.🏁 - bulma-start - A tiny npm package to get started🏁 - gatsby-starter-netlify-cms - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma🏁 - next-bulma - NextJs with Bulma CSS Framework🏁 - react-starter - A starter for React/Bulma/Webpack",
+      "items": [],
+      "title": "Starters"
+    },
+    {
+      "description": "💻 - Bulma for VS Code - A set of Bulma Snippets for Visual Studio Code💻 - Bulma Snippets for VS Code - Visual Studio Code snippet extension for Bulma CSS💻 - Bulma CSS Class Completion - Visual Studio Code class-name completion for Bulma CSS💻 - Bulma Snippets for Sublime Text 3 - A set of Bulma Snippets for Sublime Text💻 - Bulma Autocomplete for Sublime Text 3 - Sublime Text autocomplete plugin for the Bulma CSS Framework💻 - Bulma Autocomplete 2.0 for Atom - An Atom module to improve your Bulma workflow",
+      "items": [],
+      "title": "IDE Extensions"
+    },
+    {
+      "description": ":octocat: - FileGator - Powerful Multi-User File Manager:octocat: - VaahCMS - Laravel based open-source headless CMS with Bulma:octocat: - Laravel Enso - Laravel Vue SPA, Bulma themed admin panel:octocat: - Python Discord Site - Django and Bulma web application powering pythondiscord.com",
+      "items": [],
+      "title": "Open-Source Projects"
+    },
+    {
+      "description": "🖼️ - awesome-bulma-templates - Free Real World Templates built with Bulma🖼️ - bulma-rent-template - Free Rent Template built with Bulma🖼️ - bulma-cv-template - Free CV Template built with Bulma🖼️ - bulma-hotel-template - Free Hotel Template built with Bulma🖼️ - bulma-coming-soon-template - Free Coming Soon Template built with Bulma🖼️ - bulma-event-participation-template - Free Event Participation Template built with Bulma🖼️ - bulma-login-template - Free Login Page Template built with Bulma🖼️ - bulma-admin-dashboard-template - Free Admin Dashboard Template built with Bulma🖼️ - bulma-resume-template - Free Resume Page Template built with Bulma🖼️ - bulma-templates - Free Flexbox Templates built with Bulma🖼️ - bulma-templates-admin-light - Free Admin Light Template built with the Bulma🖼️ - bulma-templates-band - Free Band Template built with Bulma🖼️ - bulma-templates-blog - Free Blog Template built with Bulma🖼️ - bulma-templates-cards - Free Cards Template built with Bulma🖼️ - bulma-templates-cheatsheet - Free Cheatsheet Template built with Bulma🖼️ - bulma-templates-cover - Free Cover Template built with Bulma🖼️ - bulma-templates-forum - Free Forum Template built with Bulma🖼️ - bulma-templates-hero - Free Hero Template built with Bulma🖼️ - bulma-templates-inbox - Free Inbox Template built with Bulma🖼️ - bulma-templates-image-timeline - Free Image Timeline Template built with Bulma🖼️ - bulma-templates-kanban - Free Kanban Template built with Bulma🖼️ - bulma-templates-kanban.js - Free Kanban.js Template built with Bulma🖼️ - bulma-templates-landing - Free Landing Template built with Bulma🖼️ - bulma-templates-login - Free Login Template built with Bulma🖼️ - bulma-templates-modal-cards - Free Modal Cards Template built with Bulma🖼️ - bulma-templates-portfolio - Free Portfolio Template built with Bulma🖼️ - bulma-templates-showcase - Free Showcase Template built with Bulma🖼️ - bulma-templates-tabs - Free Tabs Τemplate built with Bulma🖼️ - bulma-admin - Free Admin Panel Template based on Bulma🖼️ - jekyll-bulma - Bulma Jekyll Template based on Bulma🖼️ - bulma-dashboard - Free Dashboard Template built with Bulma",
+      "items": [],
+      "title": "Templates"
+    },
+    {
+      "description": "🎨 - bulmaswatch - Themes for Bulma",
+      "items": [],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learning"
+    },
+    {
+      "description": "📚 - Creating interfaces with Bulma - by Jeremy Thomas📚 - Learning Bulma by Aravind Shenoy",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Tutorials"
+    },
+    {
+      "description": "🎓 - Learn Bulma CSS for free - Shimba🎓 - Building Websites with Bulma - Pluralsight🎓 - Learn Bulma CSS for free - Coursesity",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "blazorise",
+          "description": "Components for Blazor with support for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T07:29:19Z",
+            "owner": "Megabit",
+            "repo": "Blazorise",
+            "stars": 3533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-bulma-components",
+          "description": "React components for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-15T09:09:29Z",
+            "owner": "couds",
+            "repo": "react-bulma-components",
+            "stars": 1200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oruga",
+          "description": "UI components library without CSS framework dependency",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-07T15:17:09Z",
+            "owner": "oruga-ui",
+            "repo": "oruga",
+            "stars": 1165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bloomer",
+          "description": "A set of React components for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T18:41:47Z",
+            "owner": "AlgusDark",
+            "repo": "bloomer",
+            "stars": 670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelma",
+          "description": "Bulma components for Svelte",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-01-31T15:59:31Z",
+            "owner": "c0bra",
+            "repo": "svelma",
+            "stars": 539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-bulma",
+          "description": "React.js components for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-06-05T10:04:31Z",
+            "owner": "kulakowka",
+            "repo": "react-bulma",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-rails",
+          "description": "Integrates Bulma with the rails asset pipeline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-12-28T09:18:26Z",
+            "owner": "joshuajansen",
+            "repo": "bulma-rails",
+            "stars": 354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulmil",
+          "description": "Web Components library based on Bulma and Stencil",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-19T09:45:06Z",
+            "owner": "Gomah",
+            "repo": "bulmil",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-bulma-components",
+          "description": "Bulma components for Vue.js 2",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-05-10T14:22:55Z",
+            "owner": "vouill",
+            "repo": "vue-bulma-components",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oruga-ui/theme-bulma",
+          "description": "Bulma theme for Oruga components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2026-08-04T13:23:56Z",
+            "owner": "oruga-ui",
+            "repo": "theme-bulma",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma.io-axure",
+          "description": "AxureRP Library with Bulma components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-08-03T20:36:41Z",
+            "owner": "AGmakonts",
+            "repo": "Bulma.io-axure",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ng-wizi-bulma",
+          "description": "Bulma components for Angular",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2026-04-13T08:26:13Z",
+            "owner": "WiziShop",
+            "repo": "ng-wizi-bulma",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "svelte-bulma-components",
+          "description": "Collection of Bulma UI components for Svelte",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2018-08-20T04:35:55Z",
+            "owner": "elcobvg",
+            "repo": "svelte-bulma-components",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ember-bulma",
+          "description": "Ember.js components for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-01-05T10:21:27Z",
+            "owner": "open-tux",
+            "repo": "ember-bulma",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-styled-components",
+          "description": "Bulma with styled-components",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-01-13T10:47:09Z",
+            "owner": "mpaupulaire4",
+            "repo": "bulma-styled-components",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ralma",
+          "description": "Ractive.js Components for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-21T21:41:21Z",
+            "owner": "aldi",
+            "repo": "ralma",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bestax",
+          "description": "A full-featured React library for Bulma, built for AI-powered development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T15:52:04Z",
+            "owner": "allxsmith",
+            "repo": "bestax",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "UI Libraries & Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BulmaJS",
+          "description": "JavaScript helpers for interactive Bulma components",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-25T01:52:52Z",
+            "owner": "VizuaaLOG",
+            "repo": "BulmaJS",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-calendar",
+          "description": "Display a calendar with different colors and sizes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T18:55:49Z",
+            "owner": "michael-hack",
+            "repo": "bulma-calendar",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-toast",
+          "description": "Bulma's pure JavaScript extension to display toasts",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-02T13:06:11Z",
+            "owner": "rfoel",
+            "repo": "bulma-toast",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-megamenu",
+          "description": "Bulma extension to make Mega Menus",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2020-10-05T09:48:34Z",
+            "owner": "hunzaboy",
+            "repo": "bulma-megamenu",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-dashboard",
+          "description": "Write easily dashboard-style interfaces with fixed horizontal panels",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Sass",
+            "last_commit": "2022-06-04T21:05:57Z",
+            "owner": "lucperkins",
+            "repo": "bulma-dashboard",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-coolcheckboxes",
+          "description": "Cool CSS based checkbox for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-04-14T06:34:03Z",
+            "owner": "hunzaboy",
+            "repo": "Cool-Checkboxes-for-Bulma.io",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-list",
+          "description": "A simple list component extension for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-01-17T01:37:19Z",
+            "owner": "bluefantail",
+            "repo": "bulma-list",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-block-list",
+          "description": "A simple scss package extending Bulma with block style list elements",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-12-28T14:01:00Z",
+            "owner": "chrisrhymes",
+            "repo": "bulma-block-list",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-spacing",
+          "description": "Missing spacing classes for Bulma ecosystem",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2023-12-15T14:11:18Z",
+            "owner": "kaangokdemir",
+            "repo": "bulma-spacing",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-tagsfield",
+          "description": "Multi-line tags input control",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-05-09T20:05:22Z",
+            "owner": "crabvk",
+            "repo": "bulma-tagsfield",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@cityssm/bulma-js",
+          "description": "JavaScript helpers for Bulma websites",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-26T18:20:06Z",
+            "owner": "cityssm",
+            "repo": "bulma-js",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-tagsinput",
+          "description": "Modernize an add interaction on input of tags type",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-25T07:45:44Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-tagsinput",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-timeline",
+          "description": "Display a vertical timeline, in different colors, sizes, and states",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-04-25T09:56:32Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-timeline",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-steps",
+          "description": "Display steps for a process with different colors, sizes, and states",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T09:15:43Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-steps",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-switch",
+          "description": "Display the classic checkbox as a switch button with different colors, sizes, and states",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-04-25T09:59:13Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-switch",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-pageloader",
+          "description": "Display a page-loader to inform users that content is loading, in different colors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T09:12:37Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-pageloader",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-checkradio",
+          "description": "Make classic checkbox and radio sexier with different colors, sizes, and states",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Sass",
+            "last_commit": "2025-04-25T09:07:30Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-checkradio",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-pricingtable",
+          "description": "Display pricing tables with different colors and styles",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Sass",
+            "last_commit": "2025-04-25T09:08:54Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-pricingtable",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-slider",
+          "description": "Display a classic slider with different colors, sizes, and states",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T09:16:38Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-slider",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-ribbon",
+          "description": "Bulma's extension to show a ribbon on boxes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T09:13:59Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-ribbon",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-quickview",
+          "description": "Display a quick view of data without leaving the current page",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T09:08:06Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-quickview",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-carousel",
+          "description": "A simple carousel/slider extension for Bulma",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T08:59:09Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-carousel",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-iconpicker",
+          "description": "Display an input as an Icon Picker to ease the user icon selection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-25T09:06:35Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-iconpicker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-divider",
+          "description": "Display a vertical or horizontal divider to segment your design",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-25T07:41:13Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-divider",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-badge",
+          "description": "Display a badge element in front of Bulma's element in different colors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-25T07:56:01Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-badge",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulma-tooltip",
+          "description": "Display a tooltip attached to any kind of element with different positioning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-04-25T10:04:38Z",
+            "owner": "bulma-extensions",
+            "repo": "bulma-tooltip",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Extensions"
+    },
+    {
+      "description": "✨ - Divjoy✨ - Spike✨ - Runlet✨ - Bulma Play✨ - Filegator✨ - Sinuous✨ - Agilox✨ - Pingstack✨ - SaaSHub✨ - Snipper App✨ - GreenPeace Uncut✨ - Reception Halls✨ - faulthero✨ - mattfarley✨ - jgthms✨ - Oneday✨ - Booknshelf",
+      "items": [],
+      "title": "Expo"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, aldi has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:41:25.163Z",
+    "original_repository": "aldi/awesome-bulma",
+    "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
+    "enhanced_repository": "enhansome/enhansome-bulma",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bulma with stars"
+  }
+}
