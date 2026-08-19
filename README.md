@@ -160,7 +160,7 @@
 
 * [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,531 | 🐛 80 | 🌐 C# | 📅 2026-08-19 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,200 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
-* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,166 | 🐛 19 | 🌐 Vue | 📅 2026-08-19 - UI components library without CSS framework dependency
+* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,165 | 🐛 19 | 🌐 Vue | 📅 2026-08-19 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
 * [svelma](https://github.com/c0bra/svelma/) ⭐ 539 | 🐛 27 | 🌐 HTML | 📅 2026-01-31 - Bulma components for Svelte
 * [react-bulma](https://github.com/kulakowka/react-bulma/) ⭐ 469 | 🐛 12 | 🌐 JavaScript | 📅 2019-06-05 - React.js components for Bulma
