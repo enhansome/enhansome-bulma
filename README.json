@@ -1,62 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "🔗 - Bulma - Official website🔗 - Documentation - Guides and reference🔗 - GitHub - Source code, issues, and releases🔗 - Releases - Changelog and version history🔗 - Migrating to Bulma v1 - Official upgrade guide from v0.9 to v1🔗 - npm - Package versions and install instructions🔗 - cdnjs - CDN-hosted builds of every Bulma version🔗 - Official Extensions - Curated extension directory on bulma.io🔗 - Official Expo - Showcase of websites built with Bulma",
-      "items": [],
-      "title": "Useful Links"
-    },
-    {
-      "description": "🏁 - create-bestax - A starter for React/Bestax/Bulma/AI-powered development, built for Bulma v1\nNote: These starters are built for Bulma v0.9 and are not yet compatible with v1.🏁 - bulma-start - A tiny npm package to get started🏁 - gatsby-starter-netlify-cms - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma🏁 - next-bulma - NextJs with Bulma CSS Framework🏁 - react-starter - A starter for React/Bulma/Webpack",
-      "items": [],
-      "title": "Starters"
-    },
-    {
-      "description": "💻 - Bulma for VS Code - A set of Bulma Snippets for Visual Studio Code💻 - Bulma Snippets for VS Code - Visual Studio Code snippet extension for Bulma CSS💻 - Bulma CSS Class Completion - Visual Studio Code class-name completion for Bulma CSS💻 - Bulma Snippets for Sublime Text 3 - A set of Bulma Snippets for Sublime Text💻 - Bulma Autocomplete for Sublime Text 3 - Sublime Text autocomplete plugin for the Bulma CSS Framework💻 - Bulma Autocomplete 2.0 for Atom - An Atom module to improve your Bulma workflow",
-      "items": [],
-      "title": "IDE Extensions"
-    },
-    {
-      "description": ":octocat: - FileGator - Powerful Multi-User File Manager:octocat: - VaahCMS - Laravel based open-source headless CMS with Bulma:octocat: - Laravel Enso - Laravel Vue SPA, Bulma themed admin panel:octocat: - Python Discord Site - Django and Bulma web application powering pythondiscord.com",
-      "items": [],
-      "title": "Open-Source Projects"
-    },
-    {
-      "description": "🖼️ - awesome-bulma-templates - Free Real World Templates built with Bulma🖼️ - bulma-rent-template - Free Rent Template built with Bulma🖼️ - bulma-cv-template - Free CV Template built with Bulma🖼️ - bulma-hotel-template - Free Hotel Template built with Bulma🖼️ - bulma-coming-soon-template - Free Coming Soon Template built with Bulma🖼️ - bulma-event-participation-template - Free Event Participation Template built with Bulma🖼️ - bulma-login-template - Free Login Page Template built with Bulma🖼️ - bulma-admin-dashboard-template - Free Admin Dashboard Template built with Bulma🖼️ - bulma-resume-template - Free Resume Page Template built with Bulma🖼️ - bulma-templates - Free Flexbox Templates built with Bulma🖼️ - bulma-templates-admin-light - Free Admin Light Template built with the Bulma🖼️ - bulma-templates-band - Free Band Template built with Bulma🖼️ - bulma-templates-blog - Free Blog Template built with Bulma🖼️ - bulma-templates-cards - Free Cards Template built with Bulma🖼️ - bulma-templates-cheatsheet - Free Cheatsheet Template built with Bulma🖼️ - bulma-templates-cover - Free Cover Template built with Bulma🖼️ - bulma-templates-forum - Free Forum Template built with Bulma🖼️ - bulma-templates-hero - Free Hero Template built with Bulma🖼️ - bulma-templates-inbox - Free Inbox Template built with Bulma🖼️ - bulma-templates-image-timeline - Free Image Timeline Template built with Bulma🖼️ - bulma-templates-kanban - Free Kanban Template built with Bulma🖼️ - bulma-templates-kanban.js - Free Kanban.js Template built with Bulma🖼️ - bulma-templates-landing - Free Landing Template built with Bulma🖼️ - bulma-templates-login - Free Login Template built with Bulma🖼️ - bulma-templates-modal-cards - Free Modal Cards Template built with Bulma🖼️ - bulma-templates-portfolio - Free Portfolio Template built with Bulma🖼️ - bulma-templates-showcase - Free Showcase Template built with Bulma🖼️ - bulma-templates-tabs - Free Tabs Τemplate built with Bulma🖼️ - bulma-admin - Free Admin Panel Template based on Bulma🖼️ - jekyll-bulma - Bulma Jekyll Template based on Bulma🖼️ - bulma-dashboard - Free Dashboard Template built with Bulma",
-      "items": [],
-      "title": "Templates"
-    },
-    {
-      "description": "🎨 - bulmaswatch - Themes for Bulma",
-      "items": [],
-      "title": "Themes"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Learning"
-    },
-    {
-      "description": "📚 - Creating interfaces with Bulma - by Jeremy Thomas📚 - Learning Bulma by Aravind Shenoy",
-      "items": [],
-      "title": "Books"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Video Tutorials"
-    },
-    {
-      "description": "🎓 - Learn Bulma CSS for free - Shimba🎓 - Building Websites with Bulma - Pluralsight🎓 - Learn Bulma CSS for free - Coursesity",
-      "items": [],
-      "title": "Courses"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -65,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 159973917,
             "language": "C#",
-            "last_commit": "2026-08-18T16:05:55Z",
+            "last_commit": "2026-08-19T08:04:46Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3530
+            "stars": 3531
           }
         },
         {
@@ -79,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103955573,
             "language": "JavaScript",
             "last_commit": "2024-06-15T09:09:29Z",
             "owner": "couds",
@@ -93,8 +40,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 268736505,
             "language": "Vue",
-            "last_commit": "2026-08-18T12:05:33Z",
+            "last_commit": "2026-08-19T11:55:51Z",
             "owner": "oruga-ui",
             "repo": "oruga",
             "stars": 1166
@@ -107,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 90326355,
             "language": "TypeScript",
             "last_commit": "2023-01-03T18:41:47Z",
             "owner": "AlgusDark",
@@ -121,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188113636,
             "language": "HTML",
             "last_commit": "2026-01-31T15:59:31Z",
             "owner": "c0bra",
@@ -135,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92876031,
             "language": "JavaScript",
             "last_commit": "2019-06-05T10:04:31Z",
             "owner": "kulakowka",
@@ -149,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50657689,
             "language": "SCSS",
             "last_commit": "2025-12-28T09:18:26Z",
             "owner": "joshuajansen",
@@ -163,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194663647,
             "language": "TypeScript",
             "last_commit": "2024-04-19T09:45:06Z",
             "owner": "Gomah",
@@ -177,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 96706604,
             "language": "JavaScript",
             "last_commit": "2019-05-10T14:22:55Z",
             "owner": "vouill",
@@ -191,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 368601767,
             "language": "SCSS",
             "last_commit": "2026-08-04T13:23:56Z",
             "owner": "oruga-ui",
@@ -205,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101144643,
             "language": null,
             "last_commit": "2018-08-03T20:36:41Z",
             "owner": "AGmakonts",
@@ -219,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83581476,
             "language": "CSS",
             "last_commit": "2026-04-13T08:26:13Z",
             "owner": "WiziShop",
@@ -233,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 141369950,
             "language": "HTML",
             "last_commit": "2018-08-20T04:35:55Z",
             "owner": "elcobvg",
@@ -247,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53539762,
             "language": "HTML",
             "last_commit": "2020-01-05T10:21:27Z",
             "owner": "open-tux",
@@ -261,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 139060398,
             "language": "JavaScript",
             "last_commit": "2022-01-13T10:47:09Z",
             "owner": "mpaupulaire4",
@@ -275,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136814125,
             "language": "HTML",
             "last_commit": "2026-02-21T21:41:21Z",
             "owner": "aldi",
@@ -289,8 +250,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 975765002,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:06:46Z",
+            "last_commit": "2026-08-19T12:17:03Z",
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11
@@ -300,7 +262,7 @@
       "title": "UI Libraries & Components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -309,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99966217,
             "language": "JavaScript",
             "last_commit": "2026-07-25T01:52:52Z",
             "owner": "VizuaaLOG",
@@ -323,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99837042,
             "language": "JavaScript",
             "last_commit": "2026-04-15T18:55:49Z",
             "owner": "michael-hack",
@@ -337,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132802094,
             "language": "JavaScript",
             "last_commit": "2024-03-02T13:06:11Z",
             "owner": "rfoel",
@@ -351,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100454270,
             "language": "SCSS",
             "last_commit": "2020-10-05T09:48:34Z",
             "owner": "hunzaboy",
@@ -365,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160992306,
             "language": "Sass",
             "last_commit": "2022-06-04T21:05:57Z",
             "owner": "lucperkins",
@@ -379,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 90136444,
             "language": "HTML",
             "last_commit": "2020-04-14T06:34:03Z",
             "owner": "hunzaboy",
@@ -393,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 407418353,
             "language": "SCSS",
             "last_commit": "2025-01-17T01:37:19Z",
             "owner": "bluefantail",
@@ -407,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 226421140,
             "language": "SCSS",
             "last_commit": "2024-12-28T14:01:00Z",
             "owner": "chrisrhymes",
@@ -421,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242420962,
             "language": "SCSS",
             "last_commit": "2023-12-15T14:11:18Z",
             "owner": "kaangokdemir",
@@ -435,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272250887,
             "language": "JavaScript",
             "last_commit": "2022-05-09T20:05:22Z",
             "owner": "crabvk",
@@ -449,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429469772,
             "language": "TypeScript",
             "last_commit": "2026-02-26T18:20:06Z",
             "owner": "cityssm",
@@ -463,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972512806,
             "language": null,
             "last_commit": "2025-04-25T07:45:44Z",
             "owner": "bulma-extensions",
@@ -477,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969571792,
             "language": "SCSS",
             "last_commit": "2025-04-25T09:56:32Z",
             "owner": "bulma-extensions",
@@ -491,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972482336,
             "language": "JavaScript",
             "last_commit": "2025-04-25T09:15:43Z",
             "owner": "bulma-extensions",
@@ -505,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969571544,
             "language": "SCSS",
             "last_commit": "2025-04-25T09:59:13Z",
             "owner": "bulma-extensions",
@@ -519,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969571002,
             "language": "JavaScript",
             "last_commit": "2025-04-25T09:12:37Z",
             "owner": "bulma-extensions",
@@ -533,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969570918,
             "language": "Sass",
             "last_commit": "2025-04-25T09:07:30Z",
             "owner": "bulma-extensions",
@@ -547,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972480687,
             "language": "Sass",
             "last_commit": "2025-04-25T09:08:54Z",
             "owner": "bulma-extensions",
@@ -561,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969571188,
             "language": "JavaScript",
             "last_commit": "2025-04-25T09:16:38Z",
             "owner": "bulma-extensions",
@@ -575,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969571120,
             "language": "JavaScript",
             "last_commit": "2025-04-25T09:13:59Z",
             "owner": "bulma-extensions",
@@ -589,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969571085,
             "language": "JavaScript",
             "last_commit": "2025-04-25T09:08:06Z",
             "owner": "bulma-extensions",
@@ -603,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969570883,
             "language": "JavaScript",
             "last_commit": "2025-04-25T08:59:09Z",
             "owner": "bulma-extensions",
@@ -617,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 969570949,
             "language": "JavaScript",
             "last_commit": "2025-04-25T09:06:35Z",
             "owner": "bulma-extensions",
@@ -631,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972508856,
             "language": null,
             "last_commit": "2025-04-25T07:41:13Z",
             "owner": "bulma-extensions",
@@ -645,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972517748,
             "language": null,
             "last_commit": "2025-04-25T07:56:01Z",
             "owner": "bulma-extensions",
@@ -659,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 972513826,
             "language": null,
             "last_commit": "2025-04-25T10:04:38Z",
             "owner": "bulma-extensions",
@@ -668,26 +656,12 @@
         }
       ],
       "title": "Extensions"
-    },
-    {
-      "description": "✨ - Divjoy✨ - Spike✨ - Runlet✨ - Bulma Play✨ - Filegator✨ - Sinuous✨ - Agilox✨ - Pingstack✨ - SaaSHub✨ - Snipper App✨ - GreenPeace Uncut✨ - Reception Halls✨ - faulthero✨ - mattfarley✨ - jgthms✨ - Oneday✨ - Booknshelf",
-      "items": [],
-      "title": "Expo"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, aldi has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T18:14:39.665Z",
+    "last_updated": "2026-08-19T12:20:49.714Z",
     "original_repository": "aldi/awesome-bulma",
+    "original_repository_id": 225059951,
     "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
     "enhanced_repository": "enhansome/enhansome-bulma",
     "enhanced_repository_description": null,
