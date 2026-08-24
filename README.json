@@ -12,7 +12,7 @@
             "archived": false,
             "id": 159973917,
             "language": "C#",
-            "last_commit": "2026-08-23T12:58:15Z",
+            "last_commit": "2026-08-24T14:31:16Z",
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3531
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 975765002,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T14:28:51Z",
+            "last_commit": "2026-08-24T12:30:02Z",
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:00:31.114Z",
+    "last_updated": "2026-08-24T14:31:46.223Z",
     "original_repository": "aldi/awesome-bulma",
     "original_repository_id": 225059951,
     "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
