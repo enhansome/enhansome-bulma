@@ -61,7 +61,7 @@
 :octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,056 | 🐛 216 | 🌐 PHP | 📅 2026-08-21 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 574 | 🐛 8 | 🌐 PHP | 📅 2026-04-09 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,093 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
-:octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 650 | 🐛 54 | 🌐 Python | 📅 2026-08-20 - Django and Bulma web application powering pythondiscord.com
+:octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 651 | 🐛 54 | 🌐 Python | 📅 2026-08-20 - Django and Bulma web application powering pythondiscord.com
 
 ### Templates
 
