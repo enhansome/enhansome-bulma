@@ -58,7 +58,7 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,056 | 🐛 216 | 🌐 PHP | 📅 2026-08-21 - Powerful Multi-User File Manager\
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,055 | 🐛 216 | 🌐 PHP | 📅 2026-08-21 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 574 | 🐛 8 | 🌐 PHP | 📅 2026-04-09 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,093 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 651 | 🐛 54 | 🌐 Python | 📅 2026-08-20 - Django and Bulma web application powering pythondiscord.com
@@ -158,9 +158,9 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,531 | 🐛 71 | 🌐 C# | 📅 2026-08-24 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,530 | 🐛 71 | 🌐 C# | 📅 2026-08-24 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,200 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
-* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,166 | 🐛 19 | 🌐 Vue | 📅 2026-08-19 - UI components library without CSS framework dependency
+* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,165 | 🐛 19 | 🌐 Vue | 📅 2026-08-19 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
 * [svelma](https://github.com/c0bra/svelma/) ⭐ 539 | 🐛 27 | 🌐 HTML | 📅 2026-01-31 - Bulma components for Svelte
 * [react-bulma](https://github.com/kulakowka/react-bulma/) ⭐ 469 | 🐛 12 | 🌐 JavaScript | 📅 2019-06-05 - React.js components for Bulma
@@ -174,7 +174,7 @@
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 HTML | 📅 2026-02-21 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 11 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-24 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 11 | 🐛 43 | 🌐 TypeScript | 📅 2026-08-25 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -243,4 +243,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

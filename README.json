@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T14:31:16Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3531
+            "stars": 3530
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-19T12:40:49Z",
             "owner": "oruga-ui",
             "repo": "oruga",
-            "stars": 1166
+            "stars": 1165
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 975765002,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:30:02Z",
+            "last_commit": "2026-08-25T01:58:08Z",
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11
@@ -659,7 +659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:16:43.457Z",
+    "last_updated": "2026-08-25T06:20:00.143Z",
     "original_repository": "aldi/awesome-bulma",
     "original_repository_id": 225059951,
     "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
