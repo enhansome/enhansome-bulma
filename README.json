@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T10:37:30Z",
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3530
+            "stars": 3531
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 975765002,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T00:48:04Z",
+            "last_commit": "2026-08-27T11:29:58Z",
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11
@@ -659,9 +659,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:27:27.715Z",
-    "original_repository": "aldi/awesome-bulma",
-    "original_repository_id": 225059951,
+    "last_updated": "2026-08-27T11:29:58.220Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 225059951,
+      "language": null,
+      "last_commit": "2026-08-03T15:15:57Z",
+      "owner": "aldi",
+      "repo": "awesome-bulma",
+      "stars": 350
+    },
     "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
     "enhanced_repository": "enhansome/enhansome-bulma",
     "enhanced_repository_description": null,
