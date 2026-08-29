@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Tailwind, Bulma, AntDesign, and Material.",
+            "homepage": "https://blazorise.com/",
             "id": 159973917,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T10:37:30Z",
+            "open_issues": 74,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3531
+            "stars": 3531,
+            "topics": [
+              "antdesign",
+              "blazor",
+              "blazor-components",
+              "bootstrap",
+              "bootstrap4",
+              "bootstrap5",
+              "bulma",
+              "component",
+              "component-library",
+              "components",
+              "material",
+              "tailwind",
+              "wasm"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -26,12 +45,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React components for Bulma framework",
+            "homepage": null,
             "id": 103955573,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-15T09:09:29Z",
+            "open_issues": 24,
             "owner": "couds",
             "repo": "react-bulma-components",
-            "stars": 1200
+            "stars": 1200,
+            "topics": [
+              "bulma",
+              "bulma-framework",
+              "css",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -42,12 +72,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐛 Oruga is a lightweight Vue.js UI component library without any CSS dependency",
+            "homepage": "https://oruga-ui.com",
             "id": 268736505,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:27:40Z",
+            "open_issues": 22,
             "owner": "oruga-ui",
             "repo": "oruga",
-            "stars": 1165
+            "stars": 1165,
+            "topics": [
+              "agnostic",
+              "component-library",
+              "components",
+              "contributions-welcome",
+              "css",
+              "css-framework",
+              "customization",
+              "frontend",
+              "javascript",
+              "nuxt",
+              "oruga",
+              "sass",
+              "scss",
+              "tailwindcss",
+              "ui",
+              "ui-components",
+              "ux",
+              "vue",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -58,12 +113,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A set of React components for Bulma CSS Framework",
+            "homepage": "http://bloomer.js.org",
             "id": 90326355,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T18:41:47Z",
+            "open_issues": 67,
             "owner": "AlgusDark",
             "repo": "bloomer",
-            "stars": 670
+            "stars": 670,
+            "topics": [
+              "bulma",
+              "components",
+              "css",
+              "javascript",
+              "jsx",
+              "react"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -74,12 +141,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma components for Svelte",
+            "homepage": "https://c0bra.github.io/svelma",
             "id": 188113636,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-01-31T15:59:31Z",
+            "open_issues": 27,
             "owner": "c0bra",
             "repo": "svelma",
-            "stars": 539
+            "stars": 539,
+            "topics": [
+              "bulma",
+              "svelte",
+              "svelte-components",
+              "svelte3",
+              "sveltejs"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -90,12 +168,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React.js components for Modern CSS framework based on Flexbox ",
+            "homepage": "https://code-typing-tutor.com",
             "id": 92876031,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-05T10:04:31Z",
+            "open_issues": 12,
             "owner": "kulakowka",
             "repo": "react-bulma",
-            "stars": 469
+            "stars": 469,
+            "topics": [
+              "bulma",
+              "bulma-css-framework",
+              "bulma-ui",
+              "react-bulma",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -106,12 +195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 50657689,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2025-12-28T09:18:26Z",
+            "open_issues": 0,
             "owner": "joshuajansen",
             "repo": "bulma-rails",
-            "stars": 354
+            "stars": 354,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -122,12 +216,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":lipstick: A agnostic UI components library based on Web Components, made with Bulma & Stencil.",
+            "homepage": "https://bulmil.vercel.app",
             "id": 194663647,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-04-19T09:45:06Z",
+            "open_issues": 4,
             "owner": "Gomah",
             "repo": "bulmil",
-            "stars": 159
+            "stars": 159,
+            "topics": [
+              "bulma",
+              "bulmil",
+              "stencil-components",
+              "stencil-js",
+              "stenciljs",
+              "stenciljs-components",
+              "ui-components",
+              "ui-framework",
+              "webcom"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -138,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Translate Bulma css api to vue components",
+            "homepage": null,
             "id": 96706604,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-05-10T14:22:55Z",
+            "open_issues": 0,
             "owner": "vouill",
             "repo": "vue-bulma-components",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -154,12 +268,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎈 Customization of Oruga components with Bulma CSS framework",
+            "homepage": null,
             "id": 368601767,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:29:08Z",
+            "open_issues": 3,
             "owner": "oruga-ui",
             "repo": "theme-bulma",
-            "stars": 109
+            "stars": 109,
+            "topics": [
+              "buefy",
+              "bulma",
+              "css",
+              "oruga",
+              "theme",
+              "ui",
+              "ux",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -170,12 +298,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AxureRP Library with Bulma.io components",
+            "homepage": null,
             "id": 101144643,
             "language": null,
+            "license": "MIT",
             "last_commit": "2018-08-03T20:36:41Z",
+            "open_issues": 1,
             "owner": "AGmakonts",
             "repo": "Bulma.io-axure",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "axure-library",
+              "bulma",
+              "bulma-css",
+              "bulma-ui",
+              "ui-components",
+              "ui-design",
+              "ux",
+              "ux-design"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -186,12 +328,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma components for Angular",
+            "homepage": "https://ng-wizi-bulma.firebaseapp.com",
             "id": 83581476,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-04-13T08:26:13Z",
+            "open_issues": 7,
             "owner": "WiziShop",
             "repo": "ng-wizi-bulma",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "angular",
+              "angular-components",
+              "angular2",
+              "bulma",
+              "ng-wizi-bulma"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -202,12 +355,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Bulma UI components to be used in Svelte or standalone",
+            "homepage": "http://svelte-bulma-components.surge.sh/",
             "id": 141369950,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2018-08-20T04:35:55Z",
+            "open_issues": 1,
             "owner": "elcobvg",
             "repo": "svelte-bulma-components",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "bulma",
+              "bulma-ui",
+              "svelte",
+              "svelte-components",
+              "sveltejs"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -218,12 +382,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ember-Bulma is a collection of Ember components leveraging Bulma CSS framework",
+            "homepage": "http://open-tux.github.io/ember-bulma/",
             "id": 53539762,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-01-05T10:21:27Z",
+            "open_issues": 17,
             "owner": "open-tux",
             "repo": "ember-bulma",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "bulma",
+              "ember"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -234,12 +406,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An implementation of the Bulma css Library for React using Styled Compenents",
+            "homepage": null,
             "id": 139060398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-13T10:47:09Z",
+            "open_issues": 18,
             "owner": "mpaupulaire4",
             "repo": "bulma-styled-components",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "bulma-css",
+              "reactjs",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -250,12 +431,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💎 Ractive.js Components for Bulma",
+            "homepage": "https://aldi.github.io/ralma",
             "id": 136814125,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-02-21T21:41:21Z",
+            "open_issues": 0,
             "owner": "aldi",
             "repo": "ralma",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "bulma",
+              "ractivejs"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -266,12 +455,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully-typed React component library for the Bulma CSS framework. Build modern UIs quickly with reusable, accessible, and customizable Bulma-based React components.",
+            "homepage": "https://bestax.io/",
             "id": 975765002,
             "language": "TypeScript",
-            "last_commit": "2026-08-29T01:11:03Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:24:08Z",
+            "open_issues": 19,
             "owner": "allxsmith",
             "repo": "bestax",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "bulma",
+              "components",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         }
@@ -288,12 +487,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial javascript extension to the awesome Bulma CSS framework.",
+            "homepage": "https://bulmajs.tomerbe.co.uk",
             "id": 99966217,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T01:52:52Z",
+            "open_issues": 24,
             "owner": "VizuaaLOG",
             "repo": "BulmaJS",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "bulma",
+              "css",
+              "es6",
+              "javascript",
+              "js",
+              "plugins"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -304,12 +515,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to display a calendar",
+            "homepage": null,
             "id": 99837042,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T18:55:49Z",
+            "open_issues": 51,
             "owner": "michael-hack",
             "repo": "bulma-calendar",
-            "stars": 293
+            "stars": 293,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -320,12 +536,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's pure JavaScript extension to display toasts",
+            "homepage": "https://rfoel.github.io/bulma-toast/",
             "id": 132802094,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-02T13:06:11Z",
+            "open_issues": 21,
             "owner": "rfoel",
             "repo": "bulma-toast",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "bulma",
+              "bulma-toast",
+              "hacktoberfest",
+              "javacript",
+              "toast"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -336,12 +563,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma extension to make Mega Menus",
+            "homepage": null,
             "id": 100454270,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2020-10-05T09:48:34Z",
+            "open_issues": 2,
             "owner": "hunzaboy",
             "repo": "bulma-megamenu",
-            "stars": 135
+            "stars": 135,
+            "topics": [
+              "bulma",
+              "bulma-extension",
+              "megamenu"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -352,12 +588,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma dashboard",
+            "homepage": null,
             "id": 160992306,
             "language": "Sass",
+            "license": "ISC",
             "last_commit": "2022-06-04T21:05:57Z",
+            "open_issues": 1,
             "owner": "lucperkins",
             "repo": "bulma-dashboard",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -368,12 +609,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cool CSS based checkbox for Bulma.io",
+            "homepage": "https://hunzaboy.github.io/Cool-Checkboxes-for-Bulma.io/",
             "id": 90136444,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2020-04-14T06:34:03Z",
+            "open_issues": 3,
             "owner": "hunzaboy",
             "repo": "Cool-Checkboxes-for-Bulma.io",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "bulma",
+              "checkboxes",
+              "css"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -384,12 +634,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple list component extension for Bulma.",
+            "homepage": "https://bluefantail.github.io/bulma-list",
             "id": 407418353,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-01-17T01:37:19Z",
+            "open_issues": 3,
             "owner": "bluefantail",
             "repo": "bulma-list",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "bulma"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -400,12 +657,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple scss package extending Bulma with block style list elements",
+            "homepage": "https://www.csrhymes.com/bulma-block-list/",
             "id": 226421140,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-12-28T14:01:00Z",
+            "open_issues": 0,
             "owner": "chrisrhymes",
             "repo": "bulma-block-list",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "block-list",
+              "bulma",
+              "css",
+              "list",
+              "scss"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -416,12 +684,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Missing spacing classes for Bulma ecosystem",
+            "homepage": null,
             "id": 242420962,
             "language": "SCSS",
+            "license": null,
             "last_commit": "2023-12-15T14:11:18Z",
+            "open_issues": 5,
             "owner": "kaangokdemir",
             "repo": "bulma-spacing",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -432,12 +705,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-line tags input control (Bulma extension)",
+            "homepage": "https://crabvk.github.io/bulma-tagsfield/",
             "id": 272250887,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-05-09T20:05:22Z",
+            "open_issues": 2,
             "owner": "crabvk",
             "repo": "bulma-tagsfield",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "bulma",
+              "tags",
+              "tagsfield",
+              "tagsinput"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -448,12 +731,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The unofficial missing JavaScript library for Bulma websites",
+            "homepage": null,
             "id": 429469772,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-26T18:20:06Z",
+            "open_issues": 7,
             "owner": "cityssm",
             "repo": "bulma-js",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "accessibility",
+              "aria",
+              "bulma",
+              "dropdown",
+              "javascript",
+              "tabs"
+            ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -464,12 +759,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 972512806,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-25T07:45:44Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-tagsinput",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -480,12 +780,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to display a timeline",
+            "homepage": "https://www.npmjs.com/package/@samlam140330/bulma-timeline",
             "id": 969571792,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:56:32Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-timeline",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -496,12 +801,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to manage steps",
+            "homepage": null,
             "id": 972482336,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:15:43Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-steps",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -512,12 +822,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to display checkbox as a switch",
+            "homepage": "https://www.npmjs.com/package/@samlam140330/bulma-switch",
             "id": 969571544,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:59:13Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-switch",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -528,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to show a page loader",
+            "homepage": null,
             "id": 969571002,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:12:37Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-pageloader",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -544,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to display better checkbox and radio imputs",
+            "homepage": null,
             "id": 969570918,
             "language": "Sass",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:07:30Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-checkradio",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -560,12 +885,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display a pricing table with Bulma",
+            "homepage": null,
             "id": 972480687,
             "language": "Sass",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:08:54Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-pricingtable",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -576,12 +906,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to display sliders",
+            "homepage": null,
             "id": 969571188,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:16:38Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-slider",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -592,12 +927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma's extension to show a ribbon on boxes",
+            "homepage": null,
             "id": 969571120,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:13:59Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-ribbon",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -608,12 +948,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bulma extension to display a QuickView compoment",
+            "homepage": null,
             "id": 969571085,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:08:06Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-quickview",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -624,12 +969,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Display a carousel",
+            "homepage": null,
             "id": 969570883,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T08:59:09Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-carousel",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -640,12 +990,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wonderful customizable icon picker for your Bulma project",
+            "homepage": null,
             "id": 969570949,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-04-25T09:06:35Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-iconpicker",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -656,12 +1011,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 972508856,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-25T07:41:13Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-divider",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -672,12 +1032,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 972517748,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-25T07:56:01Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-badge",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         },
@@ -688,12 +1053,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 972513826,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-25T10:04:38Z",
+            "open_issues": 0,
             "owner": "bulma-extensions",
             "repo": "bulma-tooltip",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
         }
@@ -702,15 +1072,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:11:31.355Z",
+    "last_updated": "2026-08-29T04:47:04.251Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
+      "homepage": null,
       "id": 225059951,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-03T15:15:57Z",
+      "open_issues": 0,
       "owner": "aldi",
       "repo": "awesome-bulma",
-      "stars": 351
+      "stars": 351,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bulma",
+        "bulma-css",
+        "bulma-extensions",
+        "css",
+        "css-framework",
+        "flexbox",
+        "frontend",
+        "open-source",
+        "resources",
+        "sass",
+        "templates",
+        "themes",
+        "ui-components"
+      ]
     },
     "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
     "enhanced_repository": "enhansome/enhansome-bulma",
