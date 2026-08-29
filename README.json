@@ -16,7 +16,8 @@
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3531
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "couds",
             "repo": "react-bulma-components",
             "stars": 1200
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 268736505,
             "language": "Vue",
-            "last_commit": "2026-08-19T12:40:49Z",
+            "last_commit": "2026-08-28T14:27:40Z",
             "owner": "oruga-ui",
             "repo": "oruga",
             "stars": 1165
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "AlgusDark",
             "repo": "bloomer",
             "stars": 670
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "c0bra",
             "repo": "svelma",
             "stars": 539
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "kulakowka",
             "repo": "react-bulma",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "joshuajansen",
             "repo": "bulma-rails",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "Gomah",
             "repo": "bulmil",
             "stars": 159
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "vouill",
             "repo": "vue-bulma-components",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 368601767,
             "language": "SCSS",
-            "last_commit": "2026-08-04T13:23:56Z",
+            "last_commit": "2026-08-28T13:29:08Z",
             "owner": "oruga-ui",
             "repo": "theme-bulma",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "AGmakonts",
             "repo": "Bulma.io-axure",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "WiziShop",
             "repo": "ng-wizi-bulma",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "elcobvg",
             "repo": "svelte-bulma-components",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "open-tux",
             "repo": "ember-bulma",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mpaupulaire4",
             "repo": "bulma-styled-components",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "aldi",
             "repo": "ralma",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -252,11 +268,12 @@
             "archived": false,
             "id": 975765002,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:08:42Z",
+            "last_commit": "2026-08-29T01:11:03Z",
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         }
       ],
       "title": "UI Libraries & Components"
@@ -277,7 +294,8 @@
             "owner": "VizuaaLOG",
             "repo": "BulmaJS",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -292,7 +310,8 @@
             "owner": "michael-hack",
             "repo": "bulma-calendar",
             "stars": 293
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -307,7 +326,8 @@
             "owner": "rfoel",
             "repo": "bulma-toast",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "hunzaboy",
             "repo": "bulma-megamenu",
             "stars": 135
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "lucperkins",
             "repo": "bulma-dashboard",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "hunzaboy",
             "repo": "Cool-Checkboxes-for-Bulma.io",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "bluefantail",
             "repo": "bulma-list",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "chrisrhymes",
             "repo": "bulma-block-list",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "kaangokdemir",
             "repo": "bulma-spacing",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "crabvk",
             "repo": "bulma-tagsfield",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "cityssm",
             "repo": "bulma-js",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-tagsinput",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-timeline",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-steps",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-switch",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-pageloader",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-checkradio",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-pricingtable",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-slider",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-ribbon",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -577,7 +614,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-quickview",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -592,7 +630,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-carousel",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -607,7 +646,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-iconpicker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -622,7 +662,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-divider",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -637,7 +678,8 @@
             "owner": "bulma-extensions",
             "repo": "bulma-badge",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         },
         {
           "node_type": "item",
@@ -652,14 +694,15 @@
             "owner": "bulma-extensions",
             "repo": "bulma-tooltip",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
         }
       ],
       "title": "Extensions"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:47:14.716Z",
+    "last_updated": "2026-08-29T01:11:31.355Z",
     "original_repository_info": {
       "archived": false,
       "id": 225059951,
@@ -667,7 +710,7 @@
       "last_commit": "2026-08-03T15:15:57Z",
       "owner": "aldi",
       "repo": "awesome-bulma",
-      "stars": 350
+      "stars": 351
     },
     "original_repository_sha": "04be022cc68c867667ed0eb20cae2553941c0c44",
     "enhanced_repository": "enhansome/enhansome-bulma",
