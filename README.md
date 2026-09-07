@@ -58,14 +58,14 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,066 | 🐛 219 | 🌐 PHP | 📅 2026-09-06 - Powerful Multi-User File Manager\
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,066 | 🐛 219 | 🌐 PHP | 📅 2026-09-07 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 573 | 🐛 8 | 🌐 PHP | 📅 2026-04-09 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,093 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 650 | 🐛 55 | 🌐 Python | 📅 2026-09-03 - Django and Bulma web application powering pythondiscord.com
 
 ### Templates
 
-🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) ⭐ 515 | 🐛 0 | 📅 2026-06-21 - Free Real World Templates built with Bulma\
+🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) ⭐ 513 | 🐛 0 | 📅 2026-06-21 - Free Real World Templates built with Bulma\
 🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-02-16 - Free Rent Template built with Bulma\
 🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2026-03-04 - Free CV Template built with Bulma\
 🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) ⭐ 12 | 🐛 0 | 🌐 HTML | 📅 2026-02-16 - Free Hotel Template built with Bulma\
@@ -193,7 +193,7 @@
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 11 | 🐛 13 | 🌐 TypeScript | 📅 2026-09-06 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 11 | 🐛 16 | 🌐 TypeScript | 📅 2026-09-07 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -262,4 +262,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
