@@ -150,7 +150,7 @@
             "open_issues": 27,
             "owner": "c0bra",
             "repo": "svelma",
-            "stars": 538,
+            "stars": 537,
             "topics": [
               "bulma",
               "svelte",
@@ -460,8 +460,8 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T11:56:48Z",
-            "open_issues": 16,
+            "last_commit": "2026-09-12T11:33:13Z",
+            "open_issues": 18,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11,
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T20:04:43.573Z",
+    "last_updated": "2026-09-12T19:39:54.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
