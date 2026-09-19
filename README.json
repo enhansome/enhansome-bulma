@@ -19,7 +19,7 @@
             "open_issues": 74,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3534,
+            "stars": 3535,
             "topics": [
               "antdesign",
               "blazor",
@@ -460,8 +460,8 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T18:00:53Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-19T19:27:51Z",
+            "open_issues": 34,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 11,
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T20:00:09.604Z",
+    "last_updated": "2026-09-19T19:36:59.437Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
