@@ -15,7 +15,7 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-18T14:59:45Z",
+            "last_commit": "2026-09-21T09:11:51Z",
             "open_issues": 74,
             "owner": "Megabit",
             "repo": "Blazorise",
@@ -54,7 +54,7 @@
             "open_issues": 24,
             "owner": "couds",
             "repo": "react-bulma-components",
-            "stars": 1199,
+            "stars": 1198,
             "topics": [
               "bulma",
               "bulma-framework",
@@ -77,8 +77,8 @@
             "id": 268736505,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-09-16T12:49:52Z",
-            "open_issues": 22,
+            "last_commit": "2026-09-21T07:59:52Z",
+            "open_issues": 21,
             "owner": "oruga-ui",
             "repo": "oruga",
             "stars": 1162,
@@ -460,7 +460,7 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-20T19:47:15Z",
+            "last_commit": "2026-09-21T01:34:31Z",
             "open_issues": 37,
             "owner": "allxsmith",
             "repo": "bestax",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:49:48.727Z",
+    "last_updated": "2026-09-21T21:15:32.655Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
