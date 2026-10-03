@@ -273,8 +273,8 @@
             "id": 368601767,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-09-10T09:20:15Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-03T02:51:51Z",
+            "open_issues": 2,
             "owner": "oruga-ui",
             "repo": "theme-bulma",
             "stars": 109,
@@ -460,7 +460,7 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:34:59Z",
+            "last_commit": "2026-10-03T03:36:17Z",
             "open_issues": 22,
             "owner": "allxsmith",
             "repo": "bestax",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:27:12.528Z",
+    "last_updated": "2026-10-03T04:38:18.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",

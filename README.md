@@ -186,14 +186,14 @@
 * [bulma-rails](https://github.com/joshuajansen/bulma-rails/) ⭐ 353 | 🐛 0 | 🌐 SCSS | 📅 2025-12-28 - Integrates Bulma with the rails asset pipeline
 * [bulmil](https://github.com/gomah/bulmil) ⭐ 159 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-19 - Web Components library based on Bulma and Stencil
 * [vue-bulma-components](https://github.com/vouill/vue-bulma-components) ⭐ 158 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-10 - Bulma components for Vue.js 2
-* [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 109 | 🐛 1 | 🌐 SCSS | 📅 2026-09-10 - Bulma theme for Oruga components
+* [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 109 | 🐛 2 | 🌐 SCSS | 📅 2026-10-03 - Bulma theme for Oruga components
 * [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) ⭐ 97 | 🐛 1 | 📅 2018-08-03 - AxureRP Library with Bulma components
 * [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) ⭐ 96 | 🐛 7 | 🌐 CSS | 📅 2026-04-13 - Bulma components for Angular
 * [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) ⭐ 95 | 🐛 1 | 🌐 HTML | 📅 2018-08-20 - Collection of Bulma UI components for Svelte
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 11 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-02 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 11 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-03 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -262,4 +262,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
