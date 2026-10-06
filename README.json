@@ -460,8 +460,8 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-05T12:43:28Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-06T06:37:50Z",
+            "open_issues": 38,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 12,
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:22:37.583Z",
+    "last_updated": "2026-10-06T10:47:59.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",

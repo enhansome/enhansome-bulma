@@ -29,8 +29,8 @@
 
 🔗 - [Bulma](https://bulma.io) - Official website\
 🔗 - [Documentation](https://bulma.io/documentation/) - Guides and reference\
-🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,053 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 - Source code, issues, and releases\
-🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,053 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 - Changelog and version history\
+🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,052 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 - Source code, issues, and releases\
+🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,052 | 🐛 527 | 🌐 CSS | 📅 2026-09-21 - Changelog and version history\
 🔗 - [Migrating to Bulma v1](https://bulma.io/documentation/start/migrating-to-v1/) - Official upgrade guide from v0.9 to v1\
 🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions\
 🔗 - [cdnjs](https://cdnjs.com/libraries/bulma) - CDN-hosted builds of every Bulma version\
@@ -43,7 +43,7 @@
 
 ***Note:** These starters are built for **Bulma v0.9** and are not yet compatible with v1.*\
 🏁 - [bulma-start](https://github.com/jgthms/bulma-start) ⭐ 274 | 🐛 20 | 🌐 CSS | 📅 2023-07-03 - A tiny npm package to get started\
-🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) ⭐ 2,045 | 🐛 39 | 🌐 JavaScript | 📅 2024-07-21 - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma\
+🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) ⭐ 2,046 | 🐛 39 | 🌐 JavaScript | 📅 2024-07-21 - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma\
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) ⭐ 12 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-09 - NextJs with Bulma CSS Framework\
 🏁 - [react-starter](https://github.com/chvid/react-starter) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-18 - A starter for React/Bulma/Webpack
 
@@ -193,7 +193,7 @@
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 12 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-05 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 12 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-06 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -262,4 +262,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
