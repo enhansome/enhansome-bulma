@@ -177,7 +177,7 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,535 | 🐛 53 | 🌐 C# | 📅 2026-10-05 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,536 | 🐛 54 | 🌐 C# | 📅 2026-10-06 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,199 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
 * [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,161 | 🐛 24 | 🌐 Vue | 📅 2026-10-02 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
