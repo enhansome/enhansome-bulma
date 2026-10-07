@@ -15,8 +15,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T11:24:51Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-07T20:31:35Z",
+            "open_issues": 53,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3536,
@@ -460,8 +460,8 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T06:37:50Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-07T08:01:28Z",
+            "open_issues": 22,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 12,
@@ -524,7 +524,7 @@
             "open_issues": 51,
             "owner": "michael-hack",
             "repo": "bulma-calendar",
-            "stars": 293,
+            "stars": 290,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
@@ -545,7 +545,7 @@
             "open_issues": 21,
             "owner": "rfoel",
             "repo": "bulma-toast",
-            "stars": 167,
+            "stars": 166,
             "topics": [
               "bulma",
               "bulma-toast",
@@ -1072,7 +1072,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T21:54:38.586Z",
+    "last_updated": "2026-10-07T22:17:52.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
