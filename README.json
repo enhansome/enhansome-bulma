@@ -15,8 +15,8 @@
             "id": 159973917,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T14:48:44Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-09T19:27:28Z",
+            "open_issues": 52,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3536,
@@ -81,7 +81,7 @@
             "open_issues": 24,
             "owner": "oruga-ui",
             "repo": "oruga",
-            "stars": 1161,
+            "stars": 1162,
             "topics": [
               "agnostic",
               "component-library",
@@ -256,7 +256,7 @@
             "open_issues": 0,
             "owner": "vouill",
             "repo": "vue-bulma-components",
-            "stars": 158,
+            "stars": 157,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
@@ -460,16 +460,26 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T11:09:23Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-09T12:35:11Z",
+            "open_issues": 30,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 12,
             "topics": [
+              "agent-skills",
               "bulma",
-              "components",
+              "bulma-css",
+              "component-library",
+              "design-system",
+              "llms-txt",
+              "mcp-server",
               "react",
-              "typescript"
+              "react-bulma",
+              "react-component-library",
+              "react-components",
+              "typescript",
+              "ui-components",
+              "ui-library"
             ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
@@ -1072,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:30:30.853Z",
+    "last_updated": "2026-10-09T21:53:15.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
@@ -1081,7 +1091,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-02T16:47:50Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "aldi",
       "repo": "awesome-bulma",
       "stars": 351,
