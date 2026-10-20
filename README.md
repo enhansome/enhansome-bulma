@@ -177,9 +177,9 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,539 | 🐛 43 | 🌐 C# | 📅 2026-10-19 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,540 | 🐛 44 | 🌐 C# | 📅 2026-10-20 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,199 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
-* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,163 | 🐛 26 | 🌐 Vue | 📅 2026-10-19 - UI components library without CSS framework dependency
+* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,163 | 🐛 26 | 🌐 Vue | 📅 2026-10-20 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
 * [svelma](https://github.com/c0bra/svelma/) ⭐ 536 | 🐛 27 | 🌐 HTML | 📅 2026-01-31 - Bulma components for Svelte
 * [react-bulma](https://github.com/kulakowka/react-bulma/) ⭐ 469 | 🐛 12 | 🌐 JavaScript | 📅 2019-06-05 - React.js components for Bulma
@@ -193,7 +193,7 @@
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 12 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-19 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 12 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-20 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -262,4 +262,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
