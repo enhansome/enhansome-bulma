@@ -43,7 +43,7 @@
 
 ***Note:** These starters are built for **Bulma v0.9** and are not yet compatible with v1.*\
 🏁 - [bulma-start](https://github.com/jgthms/bulma-start) ⭐ 274 | 🐛 20 | 🌐 CSS | 📅 2023-07-03 - A tiny npm package to get started\
-🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) ⭐ 2,044 | 🐛 39 | 🌐 JavaScript | 📅 2024-07-21 - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma\
+🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) ⭐ 2,043 | 🐛 39 | 🌐 JavaScript | 📅 2024-07-21 - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma\
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) ⭐ 12 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-09 - NextJs with Bulma CSS Framework\
 🏁 - [react-starter](https://github.com/chvid/react-starter) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-18 - A starter for React/Bulma/Webpack
 
@@ -58,16 +58,16 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,083 | 🐛 230 | 🌐 PHP | 📅 2026-10-27 - Powerful Multi-User File Manager\
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,084 | 🐛 231 | 🌐 PHP | 📅 2026-10-27 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 571 | 🐛 8 | 🌐 PHP | 📅 2026-04-09 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,091 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 651 | 🐛 60 | 🌐 Python | 📅 2026-10-25 - Django and Bulma web application powering pythondiscord.com\
-:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) ⭐ 13 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-27 - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline\
-:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) ⭐ 13 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-27 - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
+:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) ⭐ 13 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-28 - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline\
+:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) ⭐ 13 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-28 - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
 
 ### Templates
 
-🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) ⭐ 513 | 🐛 0 | 📅 2026-06-21 - Free Real World Templates built with Bulma\
+🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) ⭐ 512 | 🐛 0 | 📅 2026-06-21 - Free Real World Templates built with Bulma\
 🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-02-16 - Free Rent Template built with Bulma\
 🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2026-03-04 - Free CV Template built with Bulma\
 🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) ⭐ 12 | 🐛 0 | 🌐 HTML | 📅 2026-02-16 - Free Hotel Template built with Bulma\
@@ -179,14 +179,14 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,542 | 🐛 21 | 🌐 C# | 📅 2026-10-27 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,543 | 🐛 15 | 🌐 C# | 📅 2026-10-28 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,199 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
-* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,163 | 🐛 27 | 🌐 Vue | 📅 2026-10-25 - UI components library without CSS framework dependency
+* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,162 | 🐛 27 | 🌐 Vue | 📅 2026-10-25 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
 * [svelma](https://github.com/c0bra/svelma/) ⭐ 535 | 🐛 27 | 🌐 HTML | 📅 2026-01-31 - Bulma components for Svelte
 * [react-bulma](https://github.com/kulakowka/react-bulma/) ⭐ 469 | 🐛 12 | 🌐 JavaScript | 📅 2019-06-05 - React.js components for Bulma
 * [bulma-rails](https://github.com/joshuajansen/bulma-rails/) ⭐ 353 | 🐛 0 | 🌐 SCSS | 📅 2025-12-28 - Integrates Bulma with the rails asset pipeline
-* [bulmil](https://github.com/gomah/bulmil) ⭐ 159 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-19 - Web Components library based on Bulma and Stencil
+* [bulmil](https://github.com/gomah/bulmil) ⭐ 158 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-19 - Web Components library based on Bulma and Stencil
 * [vue-bulma-components](https://github.com/vouill/vue-bulma-components) ⭐ 157 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-10 - Bulma components for Vue.js 2
 * [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 109 | 🐛 3 | 🌐 SCSS | 📅 2026-10-21 - Bulma theme for Oruga components
 * [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) ⭐ 97 | 🐛 1 | 📅 2018-08-03 - AxureRP Library with Bulma components
@@ -195,7 +195,7 @@
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 13 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-27 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 13 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-28 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -264,4 +264,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
