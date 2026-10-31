@@ -256,7 +256,7 @@
             "open_issues": 0,
             "owner": "vouill",
             "repo": "vue-bulma-components",
-            "stars": 157,
+            "stars": 156,
             "topics": []
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
@@ -460,8 +460,8 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T12:05:21Z",
-            "open_issues": 32,
+            "last_commit": "2026-10-31T19:59:43Z",
+            "open_issues": 47,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 13,
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T21:42:10.037Z",
+    "last_updated": "2026-10-31T20:41:43.435Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
