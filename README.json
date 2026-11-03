@@ -16,7 +16,7 @@
             "language": "C#",
             "license": "NOASSERTION",
             "last_commit": "2026-10-28T17:43:29Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "Megabit",
             "repo": "Blazorise",
             "stars": 3543,
@@ -54,7 +54,7 @@
             "open_issues": 24,
             "owner": "couds",
             "repo": "react-bulma-components",
-            "stars": 1198,
+            "stars": 1197,
             "topics": [
               "bulma",
               "bulma-framework",
@@ -77,8 +77,8 @@
             "id": 268736505,
             "language": "Vue",
             "license": "MIT",
-            "last_commit": "2026-10-29T13:41:53Z",
-            "open_issues": 29,
+            "last_commit": "2026-11-02T10:49:52Z",
+            "open_issues": 26,
             "owner": "oruga-ui",
             "repo": "oruga",
             "stars": 1162,
@@ -460,11 +460,11 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-01T21:05:09Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-03T00:03:13Z",
+            "open_issues": 79,
             "owner": "allxsmith",
             "repo": "bestax",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "agent-skills",
               "bulma",
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T21:23:06.591Z",
+    "last_updated": "2026-11-03T00:04:33.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
