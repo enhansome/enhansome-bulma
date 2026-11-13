@@ -29,8 +29,8 @@
 
 🔗 - [Bulma](https://bulma.io) - Official website\
 🔗 - [Documentation](https://bulma.io/documentation/) - Guides and reference\
-🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,036 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Source code, issues, and releases\
-🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,036 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Changelog and version history\
+🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,033 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Source code, issues, and releases\
+🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,033 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Changelog and version history\
 🔗 - [Migrating to Bulma v1](https://bulma.io/documentation/start/migrating-to-v1/) - Official upgrade guide from v0.9 to v1\
 🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions\
 🔗 - [cdnjs](https://cdnjs.com/libraries/bulma) - CDN-hosted builds of every Bulma version\
@@ -43,7 +43,7 @@
 
 ***Note:** These starters are built for **Bulma v0.9** and are not yet compatible with v1.*\
 🏁 - [bulma-start](https://github.com/jgthms/bulma-start) ⭐ 274 | 🐛 20 | 🌐 CSS | 📅 2023-07-03 - A tiny npm package to get started\
-🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) ⭐ 2,042 | 🐛 39 | 🌐 JavaScript | 📅 2024-07-21 - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma\
+🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) ⭐ 2,041 | 🐛 39 | 🌐 JavaScript | 📅 2024-07-21 - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma\
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) ⭐ 12 | 🐛 16 | 🌐 JavaScript | 📅 2022-12-09 - NextJs with Bulma CSS Framework\
 🏁 - [react-starter](https://github.com/chvid/react-starter) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2021-07-18 - A starter for React/Bulma/Webpack
 
@@ -58,7 +58,7 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,088 | 🐛 235 | 🌐 PHP | 📅 2026-11-05 - Powerful Multi-User File Manager\
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,088 | 🐛 234 | 🌐 PHP | 📅 2026-11-05 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 571 | 🐛 8 | 🌐 PHP | 📅 2026-04-09 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,092 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 651 | 🐛 60 | 🌐 Python | 📅 2026-10-25 - Django and Bulma web application powering pythondiscord.com\
@@ -179,9 +179,9 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,540 | 🐛 16 | 🌐 C# | 📅 2026-11-12 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,541 | 🐛 17 | 🌐 C# | 📅 2026-11-12 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,195 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
-* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,163 | 🐛 34 | 🌐 Vue | 📅 2026-11-12 - UI components library without CSS framework dependency
+* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,163 | 🐛 26 | 🌐 Vue | 📅 2026-11-13 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
 * [svelma](https://github.com/c0bra/svelma/) ⭐ 536 | 🐛 27 | 🌐 HTML | 📅 2026-01-31 - Bulma components for Svelte
 * [react-bulma](https://github.com/kulakowka/react-bulma/) ⭐ 468 | 🐛 12 | 🌐 JavaScript | 📅 2019-06-05 - React.js components for Bulma
@@ -264,4 +264,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
