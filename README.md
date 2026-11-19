@@ -29,8 +29,8 @@
 
 🔗 - [Bulma](https://bulma.io) - Official website\
 🔗 - [Documentation](https://bulma.io/documentation/) - Guides and reference\
-🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,035 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Source code, issues, and releases\
-🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,035 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Changelog and version history\
+🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,034 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Source code, issues, and releases\
+🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,034 | 🐛 532 | 🌐 CSS | 📅 2026-09-21 - Changelog and version history\
 🔗 - [Migrating to Bulma v1](https://bulma.io/documentation/start/migrating-to-v1/) - Official upgrade guide from v0.9 to v1\
 🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions\
 🔗 - [cdnjs](https://cdnjs.com/libraries/bulma) - CDN-hosted builds of every Bulma version\
@@ -58,16 +58,16 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,092 | 🐛 235 | 🌐 PHP | 📅 2026-11-05 - Powerful Multi-User File Manager\
-:octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 573 | 🐛 8 | 🌐 PHP | 📅 2026-04-09 - Laravel based open-source headless CMS with Bulma\
-:octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,092 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
-:octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 651 | 🐛 60 | 🌐 Python | 📅 2026-10-25 - Django and Bulma web application powering pythondiscord.com\
-:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) ⭐ 15 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-18 - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline\
-:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) ⭐ 15 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-18 - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,092 | 🐛 236 | 🌐 PHP | 📅 2026-11-19 - Powerful Multi-User File Manager\
+:octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 572 | 🐛 8 | 🌐 PHP | 📅 2026-11-19 - Laravel based open-source headless CMS with Bulma\
+:octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,091 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
+:octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 650 | 🐛 60 | 🌐 Python | 📅 2026-10-25 - Django and Bulma web application powering pythondiscord.com\
+:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) ⭐ 15 | 🐛 133 | 🌐 TypeScript | 📅 2026-11-19 - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline\
+:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) ⭐ 15 | 🐛 133 | 🌐 TypeScript | 📅 2026-11-19 - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
 
 ### Templates
 
-🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) ⭐ 513 | 🐛 0 | 📅 2026-06-21 - Free Real World Templates built with Bulma\
+🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) ⭐ 511 | 🐛 0 | 📅 2026-06-21 - Free Real World Templates built with Bulma\
 🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) ⭐ 15 | 🐛 0 | 🌐 HTML | 📅 2026-02-16 - Free Rent Template built with Bulma\
 🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) ⭐ 16 | 🐛 0 | 🌐 HTML | 📅 2026-03-04 - Free CV Template built with Bulma\
 🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) ⭐ 12 | 🐛 0 | 🌐 HTML | 📅 2026-02-16 - Free Hotel Template built with Bulma\
@@ -76,7 +76,7 @@
 🖼️ - [bulma-login-template](https://github.com/aldi/bulma-login-template) ⭐ 19 | 🐛 0 | 🌐 HTML | 📅 2026-03-04 - Free Login Page Template built with Bulma\
 🖼️ - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) ⚠️ Archived - Free Admin Dashboard Template built with Bulma\
 🖼️ - [bulma-resume-template](https://github.com/mazipan/bulma-resume-template) ⚠️ Archived - Free Resume Page Template built with Bulma\
-🖼️ - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) ⭐ 3,314 | 🐛 4 | 🌐 HTML | 📅 2026-10-02 - Free Flexbox Templates built with Bulma\
+🖼️ - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) ⭐ 3,313 | 🐛 4 | 🌐 HTML | 📅 2026-10-02 - Free Flexbox Templates built with Bulma\
 🖼️ - [bulma-templates-admin-light](https://bulmatemplates.github.io/bulma-templates) - Free Admin Light Template built with the Bulma\
 🖼️ - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band Template built with Bulma\
 🖼️ - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma\
@@ -179,28 +179,28 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,541 | 🐛 21 | 🌐 C# | 📅 2026-11-18 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,540 | 🐛 19 | 🌐 C# | 📅 2026-11-19 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,195 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
-* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,163 | 🐛 24 | 🌐 Vue | 📅 2026-11-18 - UI components library without CSS framework dependency
+* [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,162 | 🐛 22 | 🌐 Vue | 📅 2026-11-19 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
 * [svelma](https://github.com/c0bra/svelma/) ⭐ 536 | 🐛 27 | 🌐 HTML | 📅 2026-01-31 - Bulma components for Svelte
 * [react-bulma](https://github.com/kulakowka/react-bulma/) ⭐ 467 | 🐛 12 | 🌐 JavaScript | 📅 2019-06-05 - React.js components for Bulma
 * [bulma-rails](https://github.com/joshuajansen/bulma-rails/) ⭐ 353 | 🐛 0 | 🌐 SCSS | 📅 2025-12-28 - Integrates Bulma with the rails asset pipeline
 * [bulmil](https://github.com/gomah/bulmil) ⭐ 158 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-19 - Web Components library based on Bulma and Stencil
 * [vue-bulma-components](https://github.com/vouill/vue-bulma-components) ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-10 - Bulma components for Vue.js 2
-* [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 109 | 🐛 1 | 🌐 SCSS | 📅 2026-11-06 - Bulma theme for Oruga components
+* [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 109 | 🐛 3 | 🌐 SCSS | 📅 2026-11-06 - Bulma theme for Oruga components
 * [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) ⭐ 98 | 🐛 1 | 📅 2018-08-03 - AxureRP Library with Bulma components
 * [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) ⭐ 96 | 🐛 7 | 🌐 CSS | 📅 2026-04-13 - Bulma components for Angular
 * [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) ⭐ 95 | 🐛 1 | 🌐 HTML | 📅 2018-08-20 - Collection of Bulma UI components for Svelte
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 15 | 🐛 85 | 🌐 TypeScript | 📅 2026-11-18 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 15 | 🐛 133 | 🌐 TypeScript | 📅 2026-11-19 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
 
-* [BulmaJS](https://github.com/VizuaaLOG/BulmaJS) ⭐ 342 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-25 - JavaScript helpers for interactive Bulma components
+* [BulmaJS](https://github.com/VizuaaLOG/BulmaJS) ⭐ 341 | 🐛 24 | 🌐 JavaScript | 📅 2026-07-25 - JavaScript helpers for interactive Bulma components
 * [bulma-calendar](https://github.com/michael-hack/bulma-calendar) ⭐ 290 | 🐛 51 | 🌐 JavaScript | 📅 2026-04-15 - Display a calendar with different colors and sizes
 * [bulma-toast](https://github.com/rfoel/bulma-toast/) ⭐ 166 | 🐛 21 | 🌐 JavaScript | 📅 2024-03-02 - Bulma's pure JavaScript extension to display toasts
 * [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) ⭐ 135 | 🐛 2 | 🌐 SCSS | 📅 2020-10-05 - Bulma extension to make Mega Menus
@@ -264,4 +264,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
