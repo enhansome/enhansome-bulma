@@ -273,8 +273,8 @@
             "id": 368601767,
             "language": "SCSS",
             "license": "MIT",
-            "last_commit": "2026-11-06T15:45:23Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-21T14:21:18Z",
+            "open_issues": 5,
             "owner": "oruga-ui",
             "repo": "theme-bulma",
             "stars": 109,
@@ -323,33 +323,6 @@
         },
         {
           "node_type": "item",
-          "title": "ng-wizi-bulma",
-          "description": "Bulma components for Angular",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Bulma components for Angular",
-            "homepage": "https://ng-wizi-bulma.firebaseapp.com",
-            "id": 83581476,
-            "language": "CSS",
-            "license": "MIT",
-            "last_commit": "2026-04-13T08:26:13Z",
-            "open_issues": 7,
-            "owner": "WiziShop",
-            "repo": "ng-wizi-bulma",
-            "stars": 96,
-            "topics": [
-              "angular",
-              "angular-components",
-              "angular2",
-              "bulma",
-              "ng-wizi-bulma"
-            ]
-          },
-          "first_seen": "2026-08-29T01:11:31.355Z"
-        },
-        {
-          "node_type": "item",
           "title": "svelte-bulma-components",
           "description": "Collection of Bulma UI components for Svelte",
           "children": [],
@@ -371,6 +344,33 @@
               "svelte",
               "svelte-components",
               "sveltejs"
+            ]
+          },
+          "first_seen": "2026-08-29T01:11:31.355Z"
+        },
+        {
+          "node_type": "item",
+          "title": "ng-wizi-bulma",
+          "description": "Bulma components for Angular",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Bulma components for Angular",
+            "homepage": "https://ng-wizi-bulma.firebaseapp.com",
+            "id": 83581476,
+            "language": "CSS",
+            "license": "MIT",
+            "last_commit": "2026-04-13T08:26:13Z",
+            "open_issues": 7,
+            "owner": "WiziShop",
+            "repo": "ng-wizi-bulma",
+            "stars": 95,
+            "topics": [
+              "angular",
+              "angular-components",
+              "angular2",
+              "bulma",
+              "ng-wizi-bulma"
             ]
           },
           "first_seen": "2026-08-29T01:11:31.355Z"
@@ -460,8 +460,8 @@
             "id": 975765002,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T23:08:27Z",
-            "open_issues": 125,
+            "last_commit": "2026-11-21T04:32:57Z",
+            "open_issues": 117,
             "owner": "allxsmith",
             "repo": "bestax",
             "stars": 15,
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T23:24:21.348Z",
+    "last_updated": "2026-11-21T22:27:59.094Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
