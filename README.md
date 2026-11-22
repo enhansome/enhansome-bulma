@@ -58,12 +58,12 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,090 | 🐛 234 | 🌐 PHP | 📅 2026-11-20 - Powerful Multi-User File Manager\
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,091 | 🐛 235 | 🌐 PHP | 📅 2026-11-20 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 572 | 🐛 8 | 🌐 PHP | 📅 2026-11-19 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,091 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 650 | 🐛 60 | 🌐 Python | 📅 2026-10-25 - Django and Bulma web application powering pythondiscord.com\
-:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) ⭐ 15 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-21 - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline\
-:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) ⭐ 15 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-21 - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
+:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) ⭐ 15 | 🐛 110 | 🌐 TypeScript | 📅 2026-11-22 - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline\
+:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) ⭐ 15 | 🐛 110 | 🌐 TypeScript | 📅 2026-11-22 - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
 
 ### Templates
 
@@ -195,7 +195,7 @@
 * [ember-bulma](https://github.com/open-tux/ember-bulma) ⭐ 59 | 🐛 17 | 🌐 HTML | 📅 2020-01-05 - Ember.js components for Bulma
 * [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) ⚠️ Archived - Bulma with styled-components
 * [ralma](https://github.com/aldi/ralma/) ⭐ 35 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-02 - Ractive.js Components for Bulma
-* [Bestax](https://github.com/allxsmith/bestax) ⭐ 15 | 🐛 117 | 🌐 TypeScript | 📅 2026-11-21 - A full-featured React library for Bulma, built for AI-powered development
+* [Bestax](https://github.com/allxsmith/bestax) ⭐ 15 | 🐛 110 | 🌐 TypeScript | 📅 2026-11-22 - A full-featured React library for Bulma, built for AI-powered development
 * [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 
 ## Extensions
@@ -264,4 +264,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
