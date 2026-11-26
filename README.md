@@ -29,8 +29,8 @@
 
 🔗 - [Bulma](https://bulma.io) - Official website\
 🔗 - [Documentation](https://bulma.io/documentation/) - Guides and reference\
-🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,031 | 🐛 525 | 🌐 CSS | 📅 2026-11-24 - Source code, issues, and releases\
-🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,031 | 🐛 525 | 🌐 CSS | 📅 2026-11-24 - Changelog and version history\
+🔗 - [GitHub](https://github.com/jgthms/bulma) ⭐ 50,031 | 🐛 524 | 🌐 CSS | 📅 2026-11-24 - Source code, issues, and releases\
+🔗 - [Releases](https://github.com/jgthms/bulma/releases) ⭐ 50,031 | 🐛 524 | 🌐 CSS | 📅 2026-11-24 - Changelog and version history\
 🔗 - [Migrating to Bulma v1](https://bulma.io/documentation/start/migrating-to-v1/) - Official upgrade guide from v0.9 to v1\
 🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions\
 🔗 - [cdnjs](https://cdnjs.com/libraries/bulma) - CDN-hosted builds of every Bulma version\
@@ -58,7 +58,7 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,096 | 🐛 235 | 🌐 PHP | 📅 2026-11-20 - Powerful Multi-User File Manager\
+:octocat: - [FileGator](https://github.com/filegator/filegator) ⭐ 3,096 | 🐛 237 | 🌐 PHP | 📅 2026-11-20 - Powerful Multi-User File Manager\
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) ⭐ 572 | 🐛 8 | 🌐 PHP | 📅 2026-11-19 - Laravel based open-source headless CMS with Bulma\
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) ⭐ 1,091 | 🐛 9 | 🌐 PHP | 📅 2026-08-11 - Laravel Vue SPA, Bulma themed admin panel\
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) ⭐ 650 | 🐛 60 | 🌐 Python | 📅 2026-10-25 - Django and Bulma web application powering pythondiscord.com\
@@ -179,7 +179,7 @@
 
 ## UI Libraries & Components
 
-* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,538 | 🐛 18 | 🌐 C# | 📅 2026-11-24 - Components for Blazor with support for Bulma
+* [blazorise](https://github.com/Megabit/Blazorise) ⭐ 3,537 | 🐛 18 | 🌐 C# | 📅 2026-11-24 - Components for Blazor with support for Bulma
 * [react-bulma-components](https://github.com/couds/react-bulma-components/) ⭐ 1,195 | 🐛 24 | 🌐 JavaScript | 📅 2024-06-15 - React components for Bulma
 * [oruga](https://github.com/oruga-ui/oruga) ⭐ 1,162 | 🐛 23 | 🌐 Vue | 📅 2026-11-24 - UI components library without CSS framework dependency
 * [bloomer](https://github.com/AlgusDark/bloomer/) ⚠️ Archived - A set of React components for Bulma
@@ -188,7 +188,7 @@
 * [bulma-rails](https://github.com/joshuajansen/bulma-rails/) ⭐ 353 | 🐛 0 | 🌐 SCSS | 📅 2025-12-28 - Integrates Bulma with the rails asset pipeline
 * [bulmil](https://github.com/gomah/bulmil) ⭐ 158 | 🐛 4 | 🌐 TypeScript | 📅 2024-04-19 - Web Components library based on Bulma and Stencil
 * [vue-bulma-components](https://github.com/vouill/vue-bulma-components) ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2019-05-10 - Bulma components for Vue.js 2
-* [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 108 | 🐛 1 | 🌐 SCSS | 📅 2026-11-24 - Bulma theme for Oruga components
+* [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) ⭐ 107 | 🐛 1 | 🌐 SCSS | 📅 2026-11-24 - Bulma theme for Oruga components
 * [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) ⭐ 98 | 🐛 1 | 📅 2018-08-03 - AxureRP Library with Bulma components
 * [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) ⭐ 95 | 🐛 1 | 🌐 HTML | 📅 2018-08-20 - Collection of Bulma UI components for Svelte
 * [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) ⭐ 95 | 🐛 7 | 🌐 CSS | 📅 2026-04-13 - Bulma components for Angular
@@ -264,4 +264,4 @@ To the extent possible under law, [aldi](https://github.com/aldi) has waived all
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._

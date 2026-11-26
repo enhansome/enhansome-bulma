@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "Megabit",
             "repo": "Blazorise",
-            "stars": 3538,
+            "stars": 3537,
             "topics": [
               "antdesign",
               "blazor",
@@ -277,7 +277,7 @@
             "open_issues": 1,
             "owner": "oruga-ui",
             "repo": "theme-bulma",
-            "stars": 108,
+            "stars": 107,
             "topics": [
               "buefy",
               "bulma",
@@ -1082,7 +1082,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T01:38:12.968Z",
+    "last_updated": "2026-11-26T01:11:16.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "🎉 A curated list of awesome things related to Bulma CSS Framework",
